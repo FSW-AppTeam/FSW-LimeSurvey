@@ -2162,10 +2162,10 @@ detective@^5.2.0:
     defined "^1.0.0"
     minimist "^1.2.6"
 
-devbridge-autocomplete@^1.4.11:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/devbridge-autocomplete/-/devbridge-autocomplete-1.5.0.tgz#b630ef596f00ab511e2d41ae91788368e968ee01"
-  integrity sha512-yz6W76PyXS9DtuyYbQtVcpxtkI8pQ02EQwZeNWnqUJXmM5jSmsPFKmpFEBneImcHwYJrMf3+6m86Hj2MRPELGQ==
+devbridge-autocomplete@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/devbridge-autocomplete/-/devbridge-autocomplete-2.0.1.tgz#611a92122892a04a76c17a71f9f904bb6f6283be"
+  integrity sha512-Y4ftxTnLVjfDfGXbhaIh3l6jrYQJuTQDLH1WoPkzd3XMKJo5eYFv83I53wXRxeuO3L2WWAYZA+oa0t5eiSMx0A==
 
 diffie-hellman@^5.0.3:
   version "5.0.3"
